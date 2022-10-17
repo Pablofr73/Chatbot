@@ -36,7 +36,7 @@ def get_response(user_imput):
                         response('Hola', ['hola','buenas', 'saludos', 'que tal'],single_response = True)
                         response('Odio a la vida y tengo deprecion y tu?', ['como', 'estas', 'va', 'vas', 'sientes'], required_words =['como'])
                         response('No estudien programacion, mejor estudien gastronomia', ['estudiar', 'carrera', 'estudios'], single_response = True)
-                        response('El mejor color es el naranja', ['color', 'color favorito', 'el mejor color'], single_response = Ture)
+                        response('El mejor color es el naranja', ['color', 'color favorito', 'el mejor color', 'prueba'], single_response = Ture)
 
                         best_match = max(highest_prob, key=highest_prob.get)
                         print(highest_prob)
