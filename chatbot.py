@@ -33,7 +33,7 @@ def get_response(user_imput):
                         nonlocal highest_prob
                         highest_prob[bot_response] = message_probability(message, list_of_words, single_response, required_words)
 
-                        response('Hola', ['hola','buenas', 'saludos', 'que tal'],single_response = True)
+                        response('Hola', ['hola','buenas', 'saludos', 'que tal', 'Mucho gusto'],single_response = True)
                         response('Odio a la vida y tengo deprecion y tu?', ['como', 'estas', 'va', 'vas', 'sientes'], required_words =['como'])
                         response('No estudien programacion, mejor estudien gastronomia', ['estudiar', 'carrera', 'estudios'], single_response = True)
                         response('El mejor color es el naranja', ['color', 'color favorito', 'el mejor color'], single_response = Ture)
