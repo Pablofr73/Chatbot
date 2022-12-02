@@ -24,6 +24,13 @@ To run the chatbot, you will need to have Python 3 installed on your computer. F
 
 5. Follow the on-screen instructions to interact with the chatbot.
 
+## Features
+
+- Pre-defined phrases: The chatbot uses a set of pre-defined phrases to respond to user input.
+- Console interface: The chatbot currently runs in the console, allowing users to interact with it via text commands.
+- Easy to use: The chatbot is simple and easy to use, with clear instructions on how to interact with it.
+- Extensible: The chatbot's capabilities can be expanded by adding new phrases and features.
+
 ## Future plans
 
 We have several plans for future improvements to the chatbot, including:
