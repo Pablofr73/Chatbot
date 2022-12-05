@@ -1,6 +1,6 @@
 # Chatbot
 
-This is a simple chatbot project created by @Pablofr73 and @ADPR2. The chatbot uses pre-defined phrases to respond to user input. It is written in Python and currently runs in the console, but we plan to add a graphical interface in the future.
+This is a simple chatbot project created by @Pablofr73 and @ADPR2. The chatbot uses pre-defined phrases to respond to user input. It is written in Python and currently runs in the console, but we plan to add a graphical interface in the future. This project is in the testing phase and may be subject to errors.
 
 ## Getting started
 
